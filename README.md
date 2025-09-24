@@ -1,7 +1,10 @@
 # Social_Media_Addiction_Analysis
+
 📊 Social Media Addiction Analysis – Dashboard Overview
 
-[Social_Media_Addiction_Dashboard.png]
+## Dashboard
+<img width="1315" height="447" alt="Social_Media_Addiction_Dashboard" src="https://github.com/user-attachments/assets/0cd717b5-1eaa-4643-b729-2826791d4dcf" />
+
 
 Dataset Size: 705 students analyzed.
 
