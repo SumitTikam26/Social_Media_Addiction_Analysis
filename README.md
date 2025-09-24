@@ -1,6 +1,8 @@
 # Social_Media_Addiction_Analysis
 📊 Social Media Addiction Analysis – Dashboard Overview
 
+[Social_Media_Addiction_Dashboard.png]
+
 Dataset Size: 705 students analyzed.
 
 Sleep Pattern: Average sleep per student is 7 hours per night.
